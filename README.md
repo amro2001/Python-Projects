@@ -1,1 +1,2 @@
 # Python-Projects
+Created a collection of diverse Python projects highlighting adaptability and practical coding abilities, showcasing a range of applications and functionalities within the Python programming language from my first year of engineering.
